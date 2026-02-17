@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/Input/Touch/BPI_TouchInterface.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/Input/Actions/IA_Look.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/Input/Actions/IA_MouseLook.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/Input/Actions/IA_Move.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/11/1FINBKEE63DI6SFNI5HB0X.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DU/SKCADBHQFVFZTRH5IH627X.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/FL/SDQK9IRXC7O8CYKIEIQZUF.uasset",
+				"C:/Users/reidr/Documents/Unreal Projects/Concept_Underwater/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset"
+			]
+		}
+	]
+}
